@@ -14,6 +14,7 @@ namespace game
         [STAThread]
         static void Main()
         {
+            /* Новый комент*/
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
